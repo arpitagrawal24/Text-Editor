@@ -74,7 +74,7 @@ const RichTextEditor = () => {
 
       <h1 className="text-3xl font-bold text-center py-1 underline font-serif">Text Editor</h1>
 
-      <div className=" flex flex-wrap justify-center items-center gap-4 p-5 bg-purple-100 border-0 rounded">
+      <div className=" flex flex-wrap justify-center items-center gap-4 p-5 bg-purple-100 border-0 rounded top-0 sticky">
 
         {/* Buttons with onClick handlers */}
 
